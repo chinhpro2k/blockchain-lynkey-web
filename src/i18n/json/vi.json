@@ -1,0 +1,202 @@
+{
+  "language": {
+    "vi": "Tiếng việt",
+    "en": "Tiếng anh",
+    "chi": "Trung Quốc",
+    "ko": "Hàn quốc",
+    "ja": "Nhật bản",
+    "ru": "Nga"
+  },
+  "btn": {
+    "btn-buy": " Mua ngay"
+  },
+  "introduce": {
+    "bigTitle": "Khu nghỉ dưỡng sang trọng và đầu tư du lịch phát triển trên nền tảng blockchain",
+    "discript": "Cho phép sở hữu các bất động sản, khu du lịch, hệ sinh thái ứng dụng công nghệ blockchain.",
+    "btn-text1": "Xem video",
+    "btn-text2": "White-paper",
+    "btn-text3": "Mua Ngay",
+    "title-watch": "Angel sale kết thúc sau: ",
+    "Day": "Ngày",
+    "Hours": "Giờ",
+    "Minutes": "Phút",
+    "Seconds": "Giây",
+    "Raised": "Huy động",
+    "backers": "nhà đầu tư",
+    "soid": "đã bán",
+    "left": "còn lại",
+    "end-on": "kết thúc vào",
+    "ready": "sắp bắt đầu"
+  },
+  "eco-system": {
+    "eco-system": "HỆ SINH THÁI",
+    "title": "Hệ sinh thái du lịch và bất động sản",
+    "discript": "Hệ sinh thái dựa trên blockchain LynKey đang mã hóa hơn 8 tỷ đô la bất động sản cao cấp / du lịch sang trọng tại Việt Nam, Singapore, Úc và các quốc gia khác trên thế giới"
+  },
+  "product": {
+    "PRODUCT": "Sản phẩm ",
+    "title": "Nền tảng đầu tư được phát triển ứng dụng công nghệ blockchain",
+    "discript": "Một nền tảng phi tập trung để đầu tư bất động sản phân đoạn, ứng dụng công nghệ blockchain, do chính các thành viên sở hữu"
+  },
+  "assets": {
+    "ASSETS": "BẤT ĐỘNG SẢN",
+    "Our-projects": "Các dự án",
+    "discript": "Chương trình hợp tác với nhiều tập đoàn du lịch và bất động sản toàn cầu: Everland (Việt Nam), Crystal Holidays, (Việt Nam) và các tập đoàn khác ở Châu Á và Châu Âu"
+  },
+  "menu": {
+    "Ecosystem": "Hệ sinh thái",
+    "Product": "Sản phẩm",
+    "Token": "Token",
+    "Docs": "Tài liệu",
+    "Roadmap": "Lộ trình",
+    "Team": "Đội ngũ",
+    "SignIn": "Đăng nhập"
+  },
+  "tokenomics": {
+    "TOKENOMICS": "TOKENOMICS",
+    "bigTitle": "Phân bổ token",
+    "discript": "Kế hoạch phân bổ LYNK theo giai đoạn ",
+    "Standard": "Tiêu chuẩn",
+    "Total-supply": "Tổng cung"
+  },
+  "token-sale": {},
+  "fundraising": {
+    "title": "HUY ĐỘNG VỐN",
+    "token-sale": "Chào bán token",
+    "intro": "Giai đoạn đầu tiên của việc cung cấp token để chuẩn bị cho việc niêm yết trên sàn giao dịch công khai vào tháng 4 năm 2022",
+    "token-for-sale": "Mã thông báo để bán:",
+    "hard-cap": "Hard cap:",
+    "soft-cap": "Soft cap:",
+    "accept": "Accept:",
+    "minimum-buy": "Minimum buy:",
+    "token-unit": "mã ",
+    "total-supply": " của tổng",
+    "we-accpet": "Chấp nhận:",
+    "index": "STT",
+    "name-col": "Tên",
+    "time-start": "Thời gian bắt đầu",
+    "time-end": "Thời gian kết thúc",
+    "price": "Giá",
+    "quantity": "Số lượng",
+    "goal": "Mục tiêu",
+    "status": "Trạng thái",
+    "total": "Tổng",
+    "buy-minimum": "Mua tối thiểu: $20"
+  },
+  "bonus": {
+    "title": "Khoản thưởng",
+    "for-crowdsale": "Dành cho những người tham gia Crowdsale",
+    "for-crowdsale-1": "Thưởng 100 token cho tất cả các nhà đầu tư đã đăng ký tài khoản trong ứng dụng ví",
+    "for-crowdsale-2": "Thưởng 5% cho tất cả các nhà đầu tư đầu tư trong giai đoạn crowdsale",
+    "for-ref": "Dành cho người giới thiệu khách hàng",
+    "for-ref-1": "Thưởng 5% cho người giới thiệu khi người được giới thiệu thực hiện giao dịch đầu tiên",
+    "for-investor": "Dành cho các nhà đầu tư lớn",
+    "for-investor-1": "Thưởng 5% cho các nhà đầu tư đầu tư trên 50.000 USD",
+    "for-investor-2": "Thưởng 10% cho các nhà đầu tư đầu tư trên 150.000 đô la",
+    "fund": "Phân bổ vốn"
+  },
+  "vesting": {
+    "title": "VESTING",
+    "schedule": "Lịch trình quyền mua",
+    "intro": "Khóa token trong một khoảng thời gian cụ thể để duy trì ổn định giá trị lâu dài token của chúng tôi",
+    "token-allo": "Phân bổ",
+    "price": "Giá",
+    "locking": "Thời gian khoá",
+    "release": "Thời gian phát hành",
+    "month": "tháng",
+    "month-release": "Phát hành hàng tháng",
+    "token-release": "Phát hành token"
+  },
+  "docs": {
+    "title": "Thông tin",
+    "docs": "Tài liệu",
+    "intro": "Tải xuống để tìm hiểu thêm về sứ mệnh, mục tiêu cũng như các sản phẩm và dịch vụ đổi mới & sáng tạo của chúng tôi",
+    "down": "Tải xuống"
+  },
+  "road-map": {
+    "title": "Tiến độ phát triển",
+    "road": "Lộ trình sản phẩm",
+    "intro": "Chúng tôi đã đang cố gắng hết sức để thực hiện kế hoạch với các mốc quan trọng sau đây"
+  },
+  "about": {
+    "title": "Về chúng tôi",
+    "about": "Tầm nhìn LYNKEY",
+    "intro-1": "Tạo ra một hệ sinh thái ứng dụng blockchain hỗ trợ cho đầu tư du lịch và nghỉ dưỡng sang trọng",
+    "intro-2": "LynKey là một hệ sinh thái ứng dụng công nghệ blockchain cung cấp các giải pháp chia sẻ thời gian và NFT cho trải nghiệm kỳ nghỉ sang trọng cho khán giả toàn cầu thông qua các hợp đồng thông minh. Khách du lịch, khách doanh nhân, đại lý du lịch, nhà điều hành du lịch, chuỗi khách sạn và khách hàng bất động sản từ khắp nơi trên thế giới đang ngày càng chấp nhận kế hoạch mang tính cách mạng này. Các bất động sản nghỉ dưỡng cao cấp - khu nghỉ dưỡng, khách sạn, bến du thuyền, và nhiều hơn nữa được chia thành các phần nhỏ hơn dưới dạng tài sản kỹ thuật số.",
+    "view-more": "Xem thêm"
+  },
+  "team": {
+    "title": "Đội ngũ nhân sự",
+    "team": "Hội đồng quản tri",
+    "chair": "CEO.Chairwoman",
+    "chair-skill": "Expert in Property Investment and Operation Management",
+    "DAVID-TRAN": "Board Member",
+    "DAVID-TRAN-Skill": "Blockchain Professor (USA)",
+    "DINIS": "Non-Executive Chairman",
+    "DINIS-skill": "Expert in Blockchain, FinTech, AI and Investment Management",
+    "HENRY-BUI": "HENRY-BUI",
+    "HENRY-BUI-skill": "Expert in Finance",
+    "ex-team": "Ban điều hành",
+    "HILTON-SUPRA": "CBO-Chief Business Dev Officer",
+    "HILTON-SUPRA-skill": "Expert in Hedge Funds and Investment ",
+    "ASAD-SULTAN": "Chief Investment Officer",
+    "ASAD-SULTAN-skill": " Expert in Investment and Business Relationship",
+    "TUAN-HUA": "Chief Technology Officer",
+    "TUAN-HUA-skill": " Expert in Tech startup, SaaS, Blockchain",
+    "JONATHON-GOWEN": "Investment Advisor",
+    "JONATHON-GOWEN-skill": "Expert in Real Estate Investment Strategy ",
+    "SONESH-SIRA": "Partner Investment and Business Development",
+    "SONESH-SIRA-skill": "Expert in Blockchain and Investment Strategy",
+    "adv": "Ban cố vấn",
+    "THOMAS-LE": "Senior Expert in Finance and Corporate Governance",
+    "MICHAEL-TERPIN": "Globe Events PR Crypto Community",
+    "YECHUAN": "Blockchain and Tech  Partner",
+    "SUNG": "Blockchain and Fintech Partner",
+    "THOMAS": "Senior Expert in Finance and Corporate Governance"
+  },
+  "partner": {
+    "title": "Cộng sự của chúng tôi",
+    "partner": "Đối tác chiến lược",
+    "ass": "Đối tác liên kết"
+  },
+  "media": {
+    "title": "Báo chí và truyền thông",
+    "media": "Tin tức và Video",
+    "view-more": "Xem thêm"
+  },
+  "download": {
+    "download": "TẢI XUỐNG",
+    "download-app": "Tải xuống ứng dụng",
+    "available": "Có sẵn cho Android và IOs"
+  },
+  "faq": {
+    "title": "Câu hỏi thường gặp",
+    "faq": "Hỏi chúng tôi bất cứ điều gì"
+  },
+  "footer": {
+    "title": "Câu hỏi",
+    "footer": "Hỏi chúng tôi bất cứ điều gì",
+    "full-name": "Họ tên",
+    "phone": "Số điện thoại",
+    "email": "Email",
+    "mess": "Nội dung",
+    "submit": "Gửi",
+    "col-1": "Tôi có thể sử dụng Lynkey miễn phí không?",
+    "col-2": "Tôi có thể sử dụng Lynkey với tư cách cá nhân không?",
+    "col-3": "Nếu tôi làm việc cho tổ chức phi lời thuận, từ thiện thì sao?",
+    "col-4": "Nếu tôi là học sinh hay giáo viên thì sao?",
+    "col-5": "Lynkey có mức giá là bao nhiêu?",
+    "col-6": "Thời gian dùng thử miễn phí của chúng tôi là bao lâu?",
+    "col-content-1": "Phù hợp với cuộc sống thực: phù hợp với quy trình và logic của cuộc sống thực, và tuân thủ ngôn ngữ và thói quen mà người dùng đã quen",
+    "col-content-2": "Nhất quán trong giao diện: tất cả các yếu tố phải nhất quán, chẳng hạn như: phong cách thiết kế, biểu tượng và văn bản, vị trí của các yếu tố, v.v.",
+    "col-content-3": "Đơn giản hóa quy trình: giữ quy trình vận hành đơn giản và trực quan;",
+    "col-content-4": "Xác định và rõ ràng: trình bày rõ ràng ý định của bạn để người dùng có thể nhanh chóng hiểu và đưa ra quyết định;",
+    "col-content-5": "Dễ nhận biết: giao diện phải đơn giản, giúp người dùng dễ nhận biết và giải phóng họ khỏi việc ghi nhớ và nhớ lại."
+  },
+  "new-and-video": {
+    "link1": "https://crystalholidays.vn/tin-tuc/everland-mai-quyen-dong-tho-du-an-crystal-holidays-harbour-van-don/",
+    "link2": "https://crystalholidays.vn/tin-tuc/phe-duyet-do-an-quy-hoach-1-500-du-an-crystal-holidays-marina-phu-yen/",
+    "link3": "https://crystalholidays.vn/diem-den/crystal-holidays-marina-phu-yen/",
+    "link4": "https://crystalholidays.vn/tin-tuc/crystal-holidays-ra-mat-the-du-lich-dien-tu-thong-minh-digiholidays/"
+  }
+}

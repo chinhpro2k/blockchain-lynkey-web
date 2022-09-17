@@ -1,0 +1,220 @@
+{
+  "language": {
+    "vi": "Vietnam",
+    "en": "English",
+    "chi": "China",
+    "ko": "Korea",
+    "ja": "Japan",
+    "ru": "Russia"
+  },
+  "btn-buy": {
+    "btn-buy": " Buy Now"
+  },
+  "introduce": {
+    "bigTitle": "Smart luxury resorts, tourism and property, powered by Blockchain and NFTs",
+    "discript": "Empowering the property and tourism ecosystem with blockchain technology",
+    "btn-text1": "Watch Video",
+    "btn-text2": "White-paper",
+    "btn-text3": "Buy Now",
+    "title-watch": "Angel Sale ends in:",
+    "Day": "Days",
+    "Hours": "Hours",
+    "Minutes": "Minutes",
+    "Seconds": "Seconds",
+    "Raised": "Raised",
+    "backers": "backers",
+    "soid": "sold",
+    "left": "left",
+    "end-on": "ends in",
+    "ready": "ready start"
+  },
+  "eco-system": {
+    "eco-system": "ECOSYSTEM",
+    "title": "Tourism and Property Ecosystem",
+    "discript": "LynKey blockchain-powered ecosystem is tokenising over 8+ billion dollars of premium property/ tourism and luxury experiences in Vietnam, Singapore, Australia and other countries in the world"
+  },
+  "product": {
+    "PRODUCT": "PRODUCT",
+    "title": "Participation Platform powered by the Blockchain",
+    "discript": "A decentralised platform for property rights to use and tourism utility, powered by the blockchain, for the members"
+  },
+  "assets": {
+    "ASSETS": "ASSETS",
+    "Our-projects": "Our Projects",
+    "discript": "A collaborative program with multiple global property and tourism groups"
+  },
+  "menu": {
+    "Ecosystem": "Ecosystem",
+    "Product": "Product",
+    "Token": "Token",
+    "Docs": "Docs",
+    "Roadmap": "Roadmap",
+    "Team": "Team",
+    "SignIn": "Sign In"
+  },
+  "tokenomics": {
+    "TOKENOMICS": "TOKENOMICS",
+    "bigTitle": "Token allocation",
+    "discript": "Allocation module and inventory for LYNK",
+    "Standard": "Standard",
+    "Total-supply": "Total supply"
+  },
+  "token-sale": {},
+  "fundraising": {
+    "title": "FUNDRAISING",
+    "token-sale": "Token sales",
+    "intro": "Initial stage of token offering to prepare for public exchange listing in Apr 2022",
+    "token-for-sale": "Tokens for sale:",
+    "hard-cap": "Hard cap:",
+    "soft-cap": "Soft cap:",
+    "accept": "Accept:",
+    "minimum-buy": "Minimum buy:",
+    "token-unit": "tokens ",
+    "total-supply": " of total supply",
+    "we-accpet": "We accept:",
+    "index": "No",
+    "name-col": "Name",
+    "time-start": "Time start",
+    "time-end": "Time End",
+    "price": "Price",
+    "quantity": "Quantity",
+    "goal": "Goal",
+    "status": "Status",
+    "total": "Total",
+    "buy-minimum": "Minimum buy: $20"
+  },
+  "bonus": {
+    "title": "Bonuses",
+    "for-crowdsale": "For Crowdsale Participants",
+    "for-crowdsale-1": "Bonus 100 tokens for all investors who registered an account in the wallet app",
+    "for-crowdsale-2": "Bonus 5% for all investors who invest in the crowdsale period ",
+    "for-ref": "For Referrers",
+    "for-ref-1": "Bonus 5% for referrer of the first referee's token transactions ",
+    "for-investor": "For Big Investors",
+    "for-investor-1": "Bonus 5% for investors who invest more than $50,000",
+    "for-investor-2": "Bonus 10% for investors who invest more than $150,000",
+    "fund": "Fund allocation"
+  },
+  "vesting": {
+    "title": "VESTING",
+    "schedule": "Vesting schedule",
+    "intro": "Locking up tokens for a specific period to maintain a stable long-term value of our tokens",
+    "token-allo": "Token Allocation",
+    "price": "Initial Price",
+    "locking": "Locking Time",
+    "release": "Release Time ",
+    "month": "month",
+    "month-release": "Monthly Release",
+    "token-release": "Token release",
+    "vesting-schedule": "Vesting Schedule"
+  },
+  "docs": {
+    "title": "INFORMATION",
+    "docs": "Documents",
+    "intro": "Download to learn more about our mision, goal and our innovative products and sevices",
+    "down": "Download"
+  },
+  "road-map": {
+    "title": "DEVELOPMENT PROGRESS",
+    "road": "Product roadmap",
+    "intro": "LynKeys’ plan is to deliver the following milestones"
+  },
+  "about": {
+    "title": "ABOUT US",
+    "about": "LynKey Vision",
+    "intro-1": "Creating a blockchain-enabled ecosystem for luxury resort and tourism participation",
+    "intro-2": "LynKey is a blockchain-enabled ecosystem that provides timeshare and NFT solutions for luxurious holiday experiences for the global audience via smart contracts. The tourists, business travellers, travel agencies, tourism operators, hospitality chains, and property clients from all over the world are increasingly accepting this revolutionary scheme. The premium vacation property- resorts, hotels, marinas, and many more are tokenised as digital assets.",
+    "view-more": "View more"
+  },
+  "team": {
+    "title": "MEET OUR TEAM",
+    "team": "Board members",
+    "chair": "Chairwoman",
+    "chair-skill": "Expert in Property Investment and Operation Management",
+    "DAVID-TRAN": "Board Member",
+    "DAVID-TRAN-Skill": "Blockchain Professor (USA)",
+    "DINIS": "Non-Executive Chairman",
+    "DINIS-skill": "Expert in Blockchain, FinTech, AI and Investment Management",
+    "HENRY-BUI": "COO Vietnam",
+    "HENRY-BUI-skill": "Expert in Finance",
+    "ex-team": "Executive team",
+    "HILTON-SUPRA": "Chief Business Dev Officer",
+    "HILTON-SUPRA-skill": "Expert in Hedge Funds and Investment ",
+    "ASAD-SULTAN": "Chief Investment Officer",
+    "ASAD-SULTAN-skill": " Expert in Investment and Business Relationship",
+    "TUAN-HUA": "Chief Technology Officer",
+    "TUAN-HUA-skill": " Expert in Tech startup, SaaS, Blockchain",
+    "JONATHON-GOWEN": "Investment Advisor",
+    "JONATHON-GOWEN-skill": "Expert in Real Estate Investment Strategy ",
+    "SONESH-SIRA": "Partner Investment and Business Development",
+    "SONESH-SIRA-skill": " Expert in Blockchain and Investment Strategy",
+    "adv": "Advisors ",
+    "THOMAS-LE": "Senior Expert in Finance and Corporate Governance",
+    "MICHAEL-TERPIN": "Globe Events PR Crypto Community",
+    "YECHUAN": "Blockchain and Tech  Partner",
+    "SUNG": "Blockchain and Fintech Partner",
+    "THOMAS": "Senior Expert in Finance and Corporate Governance",
+    "TUAN-DINH": "Deputy General Director of NCB bank"
+  },
+  "partner": {
+    "title": "OUR PARTNERS",
+    "partner": "Strategic partners",
+    "ass": "Associate partners"
+  },
+  "media": {
+    "title": "PRESS AND MEDIA",
+    "media": "News and Video Gallery",
+    "view-more": "View more"
+  },
+  "faq": {
+    "title": "FAQs",
+    "faq": "Ask us anything"
+  },
+  "download": {
+    "download": "DOWNLOAD",
+    "download-app": "APPLICATION",
+    "available": "Available for Android and iOS"
+  },
+  "footer": {
+    "title": "Question",
+    "footer": "Ask us anything ",
+    "full-name": "Full name",
+    "phone": "Your Phone",
+    "email": "Email",
+    "mess": "Your Message",
+    "submit": "Submit",
+    "col-1": " Is there any proof for the legality of owning NFT? (For example in Vietnam when we buy a house we need to have the red book)",
+    "col-2": "What are the financial benefits of token investment?",
+    "col-3": "Is there any policy/regulations on preventing the decrease of the token value?",
+    "col-4": "What is the benefit of holding LYNK token?",
+    "col-5": "Tôi có thể liên hệ với Lynkey như thế nào?",
+    "col-6": "Tôi có thể kiếm thêm lợi nhuận từ LYNKEY chứ?",
+    "col-7": "Cộng đồng LYNKEY có trên những nền tảng nào?",
+    "col-8": "Mục tiêu LYNKEY sẽ lên sàn nào?",
+    "col-content-1": "When someone buys an NFT from the creator, they obtain ownership in the sense that it becomes their property. An NFT is a digital certificate of ownership representing the purchase of an asset, traceable on the blockchain. If someone tries to sell the asset as their own, they will not be able to produce the NFT which in itself is the legal proof of ownership. This NFT is transparent on the blockchain and can be traced to the original owner.",
+    "col-content-2": "Transactions; One of the advantages of cryptocurrency transactions is that they are one-to-one affairs, taking place on a peer-to-peer networking structure that makes “cutting out the middle man” a standard practice. This leads to greater clarity in establishing audit trails, less confusion over who should pay what to whom, and greater accountability, in that the two parties involved in a transaction each know who they are.",
+    "col-content-2,2": "Asset Transfers; The cryptocurrency blockchain can be described as resembling a “large property rights database,” which can on one level be used to execute and enforce two-party contracts on commodities like automobiles or real estate. But the blockchain cryptocurrency ecosystem may also be used to facilitate specialist modes of transfer.",
+    "col-content-2,3": "More Confidential Transactions; Another advantage of cryptocurrency is that each transaction you make is a unique exchange between two parties, the terms of which may be negotiated and agreed in each case. What’s more, the exchange of information is done on a “push” basis, whereby you can transmit exactly what you wish to send to the recipient and nothing besides that.",
+    "col-content-2,4": "Transaction Fees; There may be some external fees involved if you engage the services of a third-party management service to maintain your cryptocurrency wallet, but another one of the advantages of cryptocurrency is that they are still likely to be much less than the transaction charges incurred by traditional financial systems.",
+    "col-content-2,5": "Easier International Trade; Though largely unrecognized as legal tender on national levels at present, cryptocurrencies by their very nature are not subject to the exchange rates, interest rates, transactions charges, or other levies imposed by a specific country.",
+    "col-content-2,6": "Individual Ownership; Perhaps the greatest of all advantages of cryptocurrency is that unless you’ve delegated management of your wallet over to a third party service, you are the sole owner of the corresponding private and public encryption keys that make up your cryptocurrency network identity or address",
+    "col-content-2,7": "Adaptability; There are currently over 1200 unique cryptocurrencies or altcoins in circulation worldwide. Many are quite ephemeral, but a significant proportion have been created for specific use cases that illustrate the flexibility of the cryptocurrency phenomenon.",
+    "col-content-2,8": "Strong Security; Once a cryptocurrency transfer has been authorized, it can’t be reversed as in the case of the “charge-back” transactions allowed by credit card companies. This is a hedge against fraud which requires a specific agreement to be made between a buyer and seller regarding refunds in the event of a mistake or returns policy.",
+    "col-content-3": "There is no way of preventing a token value from decreasing. The token price is based on the intrinsic value of the underline LynKey ecosystem which includes the spending capabilities within the Everland resort and property business. The price is determined by the market and its demand. There is always the risk of a token decreasing in value.",
+    "col-content-4": "The benefit of holding a LYNK token is that the token value is based on the utility value of resort tourism, purchase services within the ecosystem also affords you the opportunity to to take advantage of discounts that are made available to token holders, and the opportunity to exchange tokens for NFT’s representing areal value experiences, timeshare, licence for resort properties.",
+    "col-content-5": "Mọi thắc mắc và sự hỗ trợ của bạn có thể gửi về support@lynkey.com",
+    "col-content-6": "Có chứ, bạn có thể sử dụng dịch vụ staking/framing của chúng tôi để kiếm thêm lợi nhuận và có thêm nhiều đồng LYNKEY hơn nữa.",
+    "col-content-7": "Facebook, Instagram, Telegram, Twitter, Youtube.",
+    "col-content-8": "Chúng tôi đạt mục tiêu có mặt trên các sàn giao dịch top 5 hàng đầu thế giới, đặc biệt là BINANCE."
+  },
+  "new-and-video": {
+    "link1": "https://www.openbusinesscouncil.org/blockchain-solutions-for-timesharing-in-vietnam-with-lynkey/",
+    "link2": "https://www.tradersdna.com/lynkey-revolutionizing-vietnam-tourism-with-blockchain-ingression/",
+    "link3": "https://www.intelligenthq.com/lynkey-leveraging-crypto-find-timesharing-solutions-vietnam/",
+    "link4": "https://medium.com/@LynKey/crypto-meanders-with-nft-for-timesharing-in-vietnam-the-lynkey-ecosystem-2b966ec3012b",
+    "title1": "Blockchain Solutions For Timesharing In Vietnam With LynKey",
+    "title2": "LynKey: Inundation Of Blockchain In Tourism And Travel",
+    "title3": "LynKey: Leveraging With Crypto To Find Timesharing Solutions In Vietnam",
+    "title4": "Crypto Meanders With NFT For Timesharing In Vietnam: The LynKey Ecosystem"
+  }
+}

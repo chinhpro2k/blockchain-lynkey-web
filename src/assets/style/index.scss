@@ -1,0 +1,41 @@
+@import "./_components/index";
+@import "./_custom/index";
+@import "./Library/grid.css";
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-margin-top: 20px;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0 auto;
+  font-family: "Open Sans", sans-serif;
+  color: #fff;
+  max-width: 1920px;
+}
+.container {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+.po-absolute {
+  position: absolute !important;
+}
+.po-relative {
+  position: relative !important;
+}
+.text-left {
+  text-align: left;
+}
+.jc-center {
+  justify-content: center;
+}
+.fl-right {
+  float: right;
+}
+.jc-between {
+  justify-content: space-between !important;
+}

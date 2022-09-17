@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <link rel="icon" href="<%= BASE_URL %>favicon.ico" />
+    <title>
+      LynKey - Smart luxury resorts, tourism and property powered, by Blockchain
+      and NFTs
+    </title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <!-- CSS only -->
+  </head>
+
+  <body>
+    <noscript>
+      <strong
+        >We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work
+        properly without JavaScript enabled. Please enable it to
+        continue.</strong
+      >
+    </noscript>
+    <div id="app"></div>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-8ZS353TBLR"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-8ZS353TBLR");
+    </script>
+    <!-- # -->
+    <script>
+      !(function () {
+        var analytics = (window.analytics = window.analytics || []);
+        if (!analytics.initialize)
+          if (analytics.invoked)
+            window.console &&
+              console.error &&
+              console.error("Segment snippet included twice.");
+          else {
+            analytics.invoked = !0;
+            analytics.methods = [
+              "trackSubmit",
+              "trackClick",
+              "trackLink",
+              "trackForm",
+              "pageview",
+              "identify",
+              "reset",
+              "group",
+              "track",
+              "ready",
+              "alias",
+              "debug",
+              "page",
+              "once",
+              "off",
+              "on",
+              "addSourceMiddleware",
+              "addIntegrationMiddleware",
+              "setAnonymousId",
+              "addDestinationMiddleware",
+            ];
+            analytics.factory = function (e) {
+              return function () {
+                var t = Array.prototype.slice.call(arguments);
+                t.unshift(e);
+                analytics.push(t);
+                return analytics;
+              };
+            };
+            for (var e = 0; e < analytics.methods.length; e++) {
+              var key = analytics.methods[e];
+              analytics[key] = analytics.factory(key);
+            }
+            analytics.load = function (key, e) {
+              var t = document.createElement("script");
+              t.type = "text/javascript";
+              t.async = !0;
+              t.src =
+                "https://cdn.segment.com/analytics.js/v1/" +
+                key +
+                "/analytics.min.js";
+              var n = document.getElementsByTagName("script")[0];
+              n.parentNode.insertBefore(t, n);
+              analytics._loadOptions = e;
+            };
+            analytics._writeKey = "dfbIpP7WQmS0eM2aO6Ay8yLjjFvQmlce";
+            analytics.SNIPPET_VERSION = "4.15.2";
+            analytics.load("dfbIpP7WQmS0eM2aO6Ay8yLjjFvQmlce");
+            analytics.page();
+          }
+      })();
+    </script>
+    <!-- Start of lynkey Zendesk Widget script -->
+    <script
+      id="ze-snippet"
+      src="https://static.zdassets.com/ekr/snippet.js?key=a3f024da-b144-4682-b240-cba26b8329dc"
+    ></script>
+    <!-- End of lynkey Zendesk Widget script -->
+    <script src="../src//particles.js-master/particles.js"></script>
+    <script src="../src//particles.js-master/app.js"></script>
+    <!-- Code Snow -->
+ 
+   
+    <!-- End Code Snow -->
+  </body>
+</html>

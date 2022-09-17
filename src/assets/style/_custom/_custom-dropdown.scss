@@ -1,0 +1,43 @@
+.el-icon-arrow-right:before {
+  content: "\e6e1" !important;
+}
+.el-collapse-item__arrow {
+  transform: rotate(180deg);
+}
+
+.el-collapse-item__arrow.is-active {
+  transform: rotate(0deg) !important;
+}
+.changeBack {
+  .el-icon-arrow-up {
+    // color: #151718 !important;
+  }
+}
+
+.dropdown-language {
+  .el-dropdown-menu__item {
+    .be-flex {
+      align-items: center;
+    }
+  }
+}
+
+.select-language-dropdown {
+  .flag {
+    align-items: center;
+    height: 34px;
+    img {
+      margin-top: 0 !important;
+    }
+  }
+}
+
+.language-sm {
+  .el-dropdown {
+    .el-dropdown-link {
+      img {
+        margin-right: 9px;
+      }
+    }
+  }
+}
